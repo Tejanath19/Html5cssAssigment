@@ -1,0 +1,90 @@
+
+	header
+	{
+		padding-left: 10px;
+		height:100px;
+		margin-left: 0px;
+
+	}
+	
+	footer
+	{
+		padding-left:20px;
+		padding-top:20px;
+		background-color:skyblue;
+		height:50px;
+		margin-bottom:20px;
+	}
+	#coloum1 
+	{
+	
+	width: 300px;
+
+	}
+
+	.menu
+	{
+		padding-top: 80px;
+		padding-left:200px;
+		
+		
+	}
+
+	.menu li
+	{
+		display: inline;
+	}
+
+	a
+	{
+		text-decoration: none;
+	}
+
+	#p1
+	{
+		background: #e3e3e3;
+	}
+	#p2
+	{
+		bckground: #ccc;
+	}
+
+	#p3
+	{
+		background: skyblue;
+	}
+	#image1
+	{
+		height: 250px ;
+		width: 300px;
+		margin- right: 40px;
+
+	}
+	#image2
+	{
+		height :250px ;
+		width:300px;
+
+	}
+
+	#image3
+		{
+			height:250px;
+			 width:300px;
+		}
+		#image4
+		{
+			margin-left: 60px;
+			height:350px;
+
+		}
+.icon
+{
+	margin-left: 20px;
+}
+
+
+
+
+	
+	
